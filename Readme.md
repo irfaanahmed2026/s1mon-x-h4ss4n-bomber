@@ -46,6 +46,7 @@ sudo apt update && sudo apt install -y python3 python3-pip git
 git clone https://github.com/irfaanahmed2026/s1mon-x-h4ss4n-bomber.git
 cd s1mon-x-h4ss4n-bomber
 pip3 install -r requirements.txt
+python3 smsbombing.py
 ```
 
 ### Termux (Android)
@@ -57,6 +58,7 @@ termux-setup-storage
 git clone https://github.com/irfaanahmed2026/s1mon-x-h4ss4n-bomber.git
 cd s1mon-x-h4ss4n-bomber
 pip install -r requirements.txt
+python smsbombing.py
 ```
 
 > Termux **F-Droid** থেকে ইনস্টল করো, Play Store ভার্সনটা পুরনো। `pip install` এ এরর এলে আগে `pkg install -y python-pip` চালাও।
@@ -67,7 +69,7 @@ pip install -r requirements.txt
 git clone https://github.com/irfaanahmed2026/s1mon-x-h4ss4n-bomber.git
 cd s1mon-x-h4ss4n-bomber
 pip install -r requirements.txt
-python bomber.py 01XXXXXXXXX
+python bomber.py
 ```
 
 ---
