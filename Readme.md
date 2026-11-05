@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="S1M0N_X_H4SS4N Ultra Bomber" width="100%">
+<img src="assets/assets/20261105_113858.png" alt="S1M0N_X_H4SS4N Ultra Bomber" width="100%">
 
 # S1M0N_X_H4SS4N ULTRA BOMBER v1.0
 
